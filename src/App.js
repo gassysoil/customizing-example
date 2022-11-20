@@ -1,7 +1,7 @@
 import "./App.css";
-import Homepage from "./Homepage";
-import AboutLittleLemon from "./AboutLittleLemon";
-import Contact from "./Contact"
+import Homepage from "./components/Homepage";
+import AboutLittleLemon from "./components/AboutLittleLemon";
+import Contact from "./components/Contact"
 import { Routes, Route, Link } from "react-router-dom";
 
 function App() {
